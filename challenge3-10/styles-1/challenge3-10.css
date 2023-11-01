@@ -1,0 +1,201 @@
+
+h1 {
+    font-size: 30px;
+}
+
+thead  {
+background-color:#E4E7E9;
+text-transform: uppercase;
+}
+
+.member0,.member0000,.member00000 {
+    white-space: nowrap;
+    word-break: break-word;
+    text-align: left;
+}
+
+
+table {
+    display: table;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    width: 100%;
+    height: 56%;
+}
+table{
+    border-top: 1px solid #E4E7E9;
+    border-bottom: 1px solid  #E4E7E9;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 10px;
+}
+.tag-a {
+border: 1px solid #E4E7E9;
+padding: 0 200px 0 0;
+}
+
+.member1 {
+    display: block;
+    position: absolute;
+    top: 19%;
+    right: 7%;
+}
+.member2 {
+    display: block;
+    position: absolute;
+    top: 35%;
+    right: 7%;
+}
+.member3 {
+    display: block;
+    position: absolute;
+    top: 52%;
+    right: 7%;
+}
+.member4 { 
+display: block;
+position: absolute;
+top: 70%;
+right: 7%;
+}
+.member5 {
+display: block;
+position: absolute;
+top: 87%;
+right: 7%;
+}
+
+.member4:link,.member4:visited {
+    text-decoration: none;
+    background-color:#ADB7BC;
+    color:#FFFFFF ;
+    padding: 9px 35px;
+    text-align: center;
+   display: inline;
+   border-radius: 2px solid #ADB7BC  ;
+}
+.member4:hover, .member4:active {
+    background-color: gray;
+ }
+ a:link,a:visited {
+    text-decoration: none;
+    background-color:#FA8232;
+    color:#FFFFFF ;
+    padding: 9px 35px;
+    text-align: center;
+   display: inline;
+   border-radius: 2px solid #FA8232  ;
+}
+a:hover, a:active {
+    background-color:darkred;
+ }
+
+ input {
+    text-align: center;
+    padding: 2%;
+
+ }
+ .member-1 {
+    display: flex;
+    position: absolute;
+    right:3% ;
+    top: 19%;
+ }
+ .member-2 {
+    display: flex;
+    position: absolute;
+    right: 3%;
+    top: 35%;
+ }
+ .member-3 {
+    display: flex;
+    position: absolute;
+    right: 3%;
+    top: 52%;
+ }
+ .member-4 {
+    display: flex;
+    position: absolute;
+    right:3%;
+    top: 70%;
+ }
+ .member-5 {
+    display: flex;
+    position: absolute;
+    right: 3%;
+    top: 87%;
+ }
+
+ .green {
+ color: #2DB224;   
+ }
+ .red {
+    color:#EE5858;
+ }
+.member--1 {
+    display: inline;
+    position: absolute;
+    left: 1%;
+    top: 17%;
+}
+.member0 {
+    display: flex;
+    position: absolute;
+    left: 6%;
+    top: 15%;
+}
+.member--2 {
+    display: flex;
+    position: absolute;
+    left: 0%;
+    top: 25%;
+}
+.member00 {
+    display: inline;
+    position: absolute;
+    left: 5%;
+    top: 30%;
+}
+.member--3 {
+    display: flex;
+    position: absolute;
+    left: 0%;
+    top: 45%;
+}
+.member000 {
+    display: inline;
+    position: absolute;
+    left: 5%;
+    top: 45%;
+}
+.member--4 {
+    display: flex;
+    position: absolute;
+    left: 0%;
+    top: 62%;
+}
+.member0000 {
+    display: inline;
+    position: absolute;
+    left: 6%;
+    top: 62%;
+}
+.member--5 {
+    display: flex;
+    position: absolute;
+    left: 0%;
+    top: 82%;
+}
+.member00000 {
+    display: inline;
+    position: absolute;
+    left: 6%;
+    top: 83%;
+}
+
+span {
+    text-decoration: line-through;
+    color: #b7b9bb;
+}
+
